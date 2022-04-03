@@ -51,7 +51,7 @@ query = """SELECT *
 
 **Deploy the Notebook as a Web Application**
 
-![Voila](Voila.mov)
+[![Voila](Voila.mov)]
 
 ## Contributors
 
