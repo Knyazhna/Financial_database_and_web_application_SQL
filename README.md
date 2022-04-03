@@ -51,7 +51,10 @@ query = """SELECT *
 
 **Deploy the Notebook as a Web Application**
 
-[![Voila](Voila.mov)]
+![Voila](Voila.mov)
+![](Voila_1.png)
+![](Voila_2.png)
+![](Voila_3.png)
 
 ## Contributors
 
