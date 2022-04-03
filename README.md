@@ -65,11 +65,13 @@ query = """SELECT *
 ![ETF_cumprod](EFT_Cumprod.png)
 
 **Deploy the Notebook as a Web Application**
+
 We will use the Voilà library to deploy the notebook as a web application. 
 
 ![Voila Run Video](Voila.mov)
 
-<br>Running Voila screenshots
+<br>*Running Voila screenshots*
+
 ![](Voila_1.png)
 ![](Voila_2.png)
 ![](Voila_3.png)
